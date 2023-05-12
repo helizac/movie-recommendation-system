@@ -7,6 +7,7 @@ This system presents a study on clustering movies based on their features using 
 ![Screenshot 2023-05-12 111919](https://github.com/helizac/movie-recommendation-system/assets/54884571/7e47458b-e095-4212-8c6b-b04f21050e2e)
 ![Screenshot 2023-05-12 112309](https://github.com/helizac/movie-recommendation-system/assets/54884571/9803d25e-f339-4134-a128-062446abbbc1)
 ![Screenshot 2023-05-12 112625](https://github.com/helizac/movie-recommendation-system/assets/54884571/220c4996-fa77-43b3-842d-53c65177ecb4)
+![Screenshot 2023-05-12 111837](https://github.com/helizac/movie-recommendation-system/assets/54884571/a6d3c950-5e99-40fc-bdba-f999cdabf826)
 
 
 -- Used Datasets --
